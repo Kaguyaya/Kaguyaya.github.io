@@ -8,11 +8,11 @@
         <id>http://example.com/2022/09/23/my-new-post/</id>
         <title>python爬虫知识点总结（1）</title>
         <link rel="alternate" href="http://example.com/2022/09/23/my-new-post/"/>
-        <content type="html">&lt;p&gt;#python 爬虫知识点总结（1）&lt;br&gt;
-## 一、什么是 python 爬虫&lt;br&gt;
-利用 python 的 request 请求来模拟浏览器访问网页，从而达到爬取网站数据的目的称之为爬虫。&lt;br&gt;
-## 二、现有的爬虫解析方法汇总&lt;br&gt;
- 1.re 解析&lt;br&gt;
+        <content type="html">&lt;h1 id=&#34;python爬虫知识点总结1&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python爬虫知识点总结1&#34;&gt;#&lt;/a&gt; python 爬虫知识点总结（1）&lt;/h1&gt;
+&lt;h2 id=&#34;一-什么是python爬虫&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-什么是python爬虫&#34;&gt;#&lt;/a&gt; 一、什么是 python 爬虫&lt;/h2&gt;
+&lt;p&gt;利用 python 的 request 请求来模拟浏览器访问网页，从而达到爬取网站数据的目的称之为爬虫。&lt;/p&gt;
+&lt;h2 id=&#34;二-现有的爬虫解析方法汇总&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二-现有的爬虫解析方法汇总&#34;&gt;#&lt;/a&gt; 二、现有的爬虫解析方法汇总&lt;/h2&gt;
+&lt;p&gt;1.re 解析&lt;br&gt;
  2.bs4 解析&lt;br&gt;
  3.xpath 解析&lt;br&gt;
  4.pyquery 解析&lt;br&gt;
