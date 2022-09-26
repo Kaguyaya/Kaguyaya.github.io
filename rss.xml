@@ -5,8 +5,21 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-cn</language>
-        <pubDate>Fri, 23 Sep 2022 00:20:41 +0800</pubDate>
-        <lastBuildDate>Fri, 23 Sep 2022 00:20:41 +0800</lastBuildDate>
+        <pubDate>Mon, 26 Sep 2022 15:07:18 +0800</pubDate>
+        <lastBuildDate>Mon, 26 Sep 2022 15:07:18 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/09/26/%E6%B8%B8%E6%88%8F%E7%8E%8BQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%81%E5%88%92/</guid>
+            <title>游戏王QQ机器人企划</title>
+            <link>http://example.com/2022/09/26/%E6%B8%B8%E6%88%8F%E7%8E%8BQQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%81%E5%88%92/</link>
+            <pubDate>Mon, 26 Sep 2022 15:07:18 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;利用qq机器人制作游戏王机器人&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#利用qq机器人制作游戏王机器人&#34;&gt;#&lt;/a&gt; 利用 QQ 机器人制作游戏王机器人&lt;/h1&gt;
+&lt;h2 id=&#34;计划功能&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划功能&#34;&gt;#&lt;/a&gt; 计划功能&lt;/h2&gt;
+&lt;p&gt;1. 可以进行卡片的名字模糊查询外号查询&lt;br&gt;
+ 2. 可以进行卡片的小程序价格查询&lt;br&gt;
+ 3. 模拟开盒&lt;br&gt;
+暂时这么多后面想到了再补充，欢迎其他人在底下评论给我提供意见&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2022/09/23/my-new-post/</guid>
             <title>python爬虫知识点总结（1）</title>
